@@ -1,4 +1,4 @@
-import logo from './mansur.png';
+import logo from './images.webp';
 import './App.css';
 
 function App() {
